@@ -9,7 +9,6 @@
 
 Portfolio for developers is a simple and minimalistic website to showcase your skills and projects as a developer. The design is inspired by [Kevin Clark](https://kevinclark.ca). The website is completely Open Source, you can use it for whatever purpose you want.
 
-![HomeGif](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/websitegif.gif)
 
 # Features
 
@@ -23,26 +22,6 @@ Portfolio for developers is a simple and minimalistic website to showcase your s
 
 I've kept the pages as simple as possible. Only the required sections are included with minimal content.
 
-## Landing
-
-![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/home.png)
-
-## About
-
-![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/about.png)
-
-## Projects
-
-![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/projects.png)
-
-## Experience
-
-![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/experience.png)
-
-## Contact
-
-![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/contact.png)
-
 # Tech Stack
 
 The website is built in my favourite Tech Stack and deployed on [Vercel](https://vercel.com)
@@ -54,7 +33,6 @@ The website is built in my favourite Tech Stack and deployed on [Vercel](https:/
 
 # Usage
 
-- Clone the repository using `git clone https://github.com/manuarora700/simple-developer-portfolio-website.git`
 - Install all the modules by using `npm i` or `npm install` or `yarn`
 - Run the local development server by using `npm run dev` or `yarn dev`
 - Make the required edits and deploy to YOUR GitHub repo for CI/CD.
