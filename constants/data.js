@@ -79,10 +79,6 @@ const userData = {
       Sass, jQuery, React Hooks, Axios, Redux, Redux-saga, NPM, Yarn, Postman, Figma, Restful Api, Json, Trello, Jira, Git, GitHub, Next.js, Firebase, AWS, Netlify.`,
       `I learned algorithms and data structures by coding from the following websites and so far I am learning LeetCode, algoexpert, hackerrank.com.`,
     ],
-
-    
-    // currentProject: "Tailwind Master Kit",
-    // currentProjectUrl: "https://tailwindmasterkit.com",
   },
   experience: [
     {
