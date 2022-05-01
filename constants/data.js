@@ -86,6 +86,8 @@ const userData = {
       company: "Toogether Tech Company",
       year: "2022",
       companyLink: "https://toogether.it/",
+      email: "iftixor@toogethertech.com",
+      phone:"+998 93 906 33 44",
       desc: "I worked for the company as a Project Manager in the Frontend Group. I worked for this company for 4 months until the project was completed.",
     },
     {
@@ -93,6 +95,8 @@ const userData = {
       company: "Toogether Tech Company",
       year: "2021",
       companyLink: "https://toogether.it/",
+      email: "lazizbek@toogethertech.com",
+      phone:"+447561704420",
       desc: "I have been working for a company as a Web application developer. The company has a very good communion. All programmers work as one.",
     },
     {
@@ -100,6 +104,8 @@ const userData = {
       company: "Galactic game zone",
       year: "2020",
       companyLink: "https://gamesgalactic.com/",
+      email: "iftixort5@gmail.com",
+      phone:"+998 93 667 28 05",
       desc: "I’ve done a lot of great things in this job. I worked responsibly and interactively on the website.",
     }
   ],
