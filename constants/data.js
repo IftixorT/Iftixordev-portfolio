@@ -1,8 +1,8 @@
 const userData = {
   githubUsername: "IftixorT",
-  name: "Iftikhor Turamuradov",
-  designation: "Full-Stack Developer",
-  avatarUrl: "/hero.png",
+  name: "Iftixor Turamuradov",
+  designation: "Frontend Developer",
+  avatarUrl: "/herosd.png",
   email: "iftikhort3344@gmail.com",
   phone: "+998 93 906 33 44",
   address: "Jomboy, Samarkand, Uzbekistan",
@@ -110,7 +110,7 @@ const userData = {
     }
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1M-xJiWdirNG8UWq6IAS7CoHp4-YI4uUx/view?usp=sharing",
+    "https://drive.google.com/file/d/1KggqZGtD-TzaniW4Qt3soaEOYmnFmhfe/view?usp=sharing",
   socialLinks: {
     instagram: "https://instagram.com/iftixor001",
     linkedin: "https://linkedin.com/in/iftixordev",
